@@ -37,8 +37,8 @@ docker cp <container_id>:./output/ ~/
 Firstly clone this repository recursively
 
 ```
-git clone https://github.com/ --recursive
-cd 
+git clone https://github.com/Gerasim0410/DDLS.git --recursive
+cd DDLS
 ```
 Make sure you have Docker installed and your Docker daemon is running  
 Then build an image
